@@ -1,0 +1,8 @@
+{
+  "name": "CS Scientist Spotlights",
+  "description": "A curated gallery of diverse computer scientists designed to highlight pioneers across different backgrounds and research areas. Features an AI assistant to learn more about CS history and a contribution portal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
