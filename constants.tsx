@@ -89,6 +89,17 @@ export const SCIENTISTS: Scientist[] = [
     imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/500px-Shafi_Goldwasser.JPG',
     contribution: 'Co-invented Zero-Knowledge Proofs and revolutionized modern cryptography.',
     wikiUrl: 'https://en.wikipedia.org/wiki/Shafi_Goldwasser'
+  },
+  {
+    id: 'barbara-liskov',
+    name: 'Barbara Liskov',
+    fields: ['Software Engineering', 'Systems & Networking'],
+    identity: ['Woman', 'Pioneer'],
+    shortBio: 'Turing Award–winning computer scientist known for foundational work in programming languages, data abstraction, and distributed systems.',
+    longBio: 'Barbara Liskov is an American computer scientist and MIT Institute Professor whose work shaped modern software design. She led influential projects including the CLU programming language (which advanced abstract data types and data abstraction) and Argus (an early language for building distributed programs). With Jeannette Wing, she introduced what became known as the Liskov Substitution Principle, a key concept in object-oriented design. Her contributions were recognized with the 2008 ACM Turing Award.',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/b/b1/Barbara_Liskov_computer_scientist_2010.jpg',
+    contribution:'Pioneered data abstraction and programming-language design (CLU/Argus) and introduced the Liskov Substitution Principle.',
+    wikiUrl: 'https://en.wikipedia.org/wiki/Barbara_Liskov'
   }
 ];
 
