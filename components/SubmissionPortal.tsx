@@ -47,7 +47,7 @@ const SubmissionPortal: React.FC = () => {
               Need Help?
             </h3>
             <p className="text-sm text-gray-500 mb-4">
-              Not sure if your suggestion fits? Reach out to us or check out our mission statement on GitHub.
+              Not sure if your suggestion fits? Reach out to us at jyauney@stanford.edu or on GitHub.
             </p>
             <a 
               href="https://scientistspotlights.org/" 
@@ -55,7 +55,7 @@ const SubmissionPortal: React.FC = () => {
               rel="noopener noreferrer"
               className="text-indigo-600 text-sm font-semibold flex items-center gap-1 hover:underline"
             >
-              Learn about the original project <ExternalLink className="w-3 h-3" />
+              Check out the [Non-CS] Scientist Spotlight project <ExternalLink className="w-3 h-3" />
             </a>
           </div>
         </div>

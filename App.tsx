@@ -4,7 +4,6 @@ import { HashRouter as Router, Routes, Route, Link, useLocation } from 'react-ro
 import { Home, Search, PlusCircle, MessageSquare, Menu, X, Github, Info } from 'lucide-react';
 import Gallery from './components/Gallery';
 import SubmissionPortal from './components/SubmissionPortal';
-import Assistant from './components/Assistant';
 import ScientistDetail from './components/ScientistDetail';
 
 const Navbar = () => {
@@ -13,7 +12,6 @@ const Navbar = () => {
 
   const navLinks = [
     { name: 'Spotlights', path: '/', icon: Home },
-    { name: 'Ask Assistant', path: '/assistant', icon: MessageSquare },
     { name: 'Submit Entry', path: '/submit', icon: PlusCircle },
   ];
 
@@ -104,11 +102,8 @@ const Footer = () => (
           Built for CS Educators & Students. Based on ScientistSpotlights.org
         </p>
         <div className="flex items-center gap-6">
-          <a href="#" className="text-gray-400 hover:text-gray-600">
+          <a href="https://github.com/jessica-yauney/CS-Spotlight" className="text-gray-400 hover:text-gray-600">
             <Github className="w-5 h-5" />
-          </a>
-          <a href="#" className="text-gray-400 hover:text-gray-600">
-            <Info className="w-5 h-5" />
           </a>
         </div>
       </div>
@@ -125,7 +120,6 @@ const App: React.FC = () => {
           <Routes>
             <Route path="/" element={<Gallery />} />
             <Route path="/scientist/:id" element={<ScientistDetail />} />
-            <Route path="/assistant" element={<Assistant />} />
             <Route path="/submit" element={<SubmissionPortal />} />
           </Routes>
         </main>

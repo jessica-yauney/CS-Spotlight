@@ -92,4 +92,4 @@ export const SCIENTISTS: Scientist[] = [
   }
 ];
 
-export const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdwR4X6Y1CclL0_yI-2mH-vL_O-A0XoY_oY_oY_oY_oY_oY/viewform?embedded=true";
+export const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScN--ebPG_APa6fE77fgZpUIiTPyH_bUSRUImbvE8cN4Mg6Qw/viewform?embedded=true";
