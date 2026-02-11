@@ -12,5 +12,6 @@ const root = ReactDOM.createRoot(rootElement);
 root.render(
   <React.StrictMode>
     <App />
+    <div> Testing tsx </div>
   </React.StrictMode>
 );
