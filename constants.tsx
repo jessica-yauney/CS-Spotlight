@@ -42,7 +42,7 @@ export const SCIENTISTS: Scientist[] = [
     identity: ['Person of Color', 'Pioneer'],
     shortBio: 'The first African American to earn a Ph.D. in Computer Science.',
     longBio: 'Ellis was a pioneer in operational transformation, which is found in collaborative systems like Google Docs. He worked at Xerox PARC where he helped develop some of the most influential concepts in modern computing.',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Clarence_Skip_Ellis.jpg/440px-Clarence_Skip_Ellis.jpg',
+    imageUrl: 'https://samepassage.org/wp-content/uploads/2020/08/Clarence_Ellis.jpg',
     contribution: 'Pioneered collaborative software and Operational Transformation.',
     wikiUrl: 'https://en.wikipedia.org/wiki/Clarence_Ellis_(computer_scientist)'
   },
@@ -53,7 +53,7 @@ export const SCIENTISTS: Scientist[] = [
     identity: ['Woman', 'Pioneer'],
     shortBio: 'Founder of the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing.',
     longBio: 'Borg was a computer scientist who advocated for the inclusion of women in technology. She worked on fault-tolerant operating systems and high-speed memory systems at Digital Equipment Corporation.',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Anita_Borg_at_her_home_in_Palo_Alto_in_2001.jpg',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/en/e/e1/Anita_Borg.jpg',
     contribution: 'Advanced high-performance memory systems and founded major advocacy groups for women in tech.',
     wikiUrl: 'https://en.wikipedia.org/wiki/Anita_Borg'
   },
@@ -64,7 +64,7 @@ export const SCIENTISTS: Scientist[] = [
     identity: ['Person of Color', 'Pioneer'],
     shortBio: 'Computer engineer and inventor who led the team that developed the ISA bus and the first gigahertz chip.',
     longBio: 'Dean holds three of IBM\'s original nine PC patents. He led the design of the IBM Personal Computer and later led the research team that developed the first gigahertz microprocessor chip.',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mark_Dean_IBM.jpg/440px-Mark_Dean_IBM.jpg',
+    imageUrl: 'https://our.tennessee.edu/wp-content/uploads/2017/01/Dean-Mark.jpg',
     contribution: 'Co-invented the Personal Computer and the ISA bus.',
     wikiUrl: 'https://en.wikipedia.org/wiki/Mark_Dean_(computer_scientist)'
   },
@@ -86,7 +86,7 @@ export const SCIENTISTS: Scientist[] = [
     identity: ['Woman', 'Contemporary', 'Immigrant'],
     shortBio: 'Turing Award-winning computer scientist known for her work in cryptography and computational complexity.',
     longBio: 'Goldwasser is a professor at MIT and UC Berkeley. She co-invented zero-knowledge proofs, which are foundational to modern cryptography and privacy-preserving technologies.',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Shafi_Goldwasser_in_2013.jpg/440px-Shafi_Goldwasser_in_2013.jpg',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/500px-Shafi_Goldwasser.JPG',
     contribution: 'Co-invented Zero-Knowledge Proofs and revolutionized modern cryptography.',
     wikiUrl: 'https://en.wikipedia.org/wiki/Shafi_Goldwasser'
   }
