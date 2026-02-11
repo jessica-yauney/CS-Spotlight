@@ -1,20 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1uO3wBK-0kMIzlK6mubakGNSou2JKtdJf
+This project is designed to assist K-12 students in learning about people who have contributed to computer science.
+Students can also contribute to this project in two ways:
+- Students can research and contribute to the database of computer scientists by submitting to a Google Form.
+- Students can contribute content or code by contributing to this open source project on GitHub.
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
 
-
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
